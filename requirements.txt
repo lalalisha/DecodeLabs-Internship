@@ -1,0 +1,3 @@
+# RuleBot has no third-party dependencies.
+# Only the Python standard library is used (random, datetime).
+# This file exists for completeness and CI compatibility.
