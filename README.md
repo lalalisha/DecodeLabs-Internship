@@ -1,22 +1,22 @@
-# 🤖 RuleBot — Rule-Based Chatbot
+#  RuleBot — Rule-Based Chatbot
 
 A lightweight, zero-dependency chatbot built entirely with Python if-else logic and keyword matching. No machine learning, no APIs, no internet required — just pure Python rules.
 
 ---
 
-## ✨ Features
+##  Features
 
 | Topic | Example inputs |
 |---|---|
-| 👋 Greetings | `hello`, `hey`, `good morning` |
-| 🕐 Time & Date | `what time is it`, `what day is today` |
-| ☁️ Weather | `is it raining`, `what's the forecast` |
-| 😂 Jokes | `tell me a joke`, `make me laugh` |
-| 🧮 Math | `calculate`, `what is 5 + 3` |
-| 💡 Motivation | `inspire me`, `give me a quote` |
-| 🎲 Fun Facts | `fun fact`, `did you know` |
-| 💬 Chit-chat | `how are you`, `who are you` |
-| 🚪 Exit | `bye`, `quit`, `goodbye` |
+|  Greetings | `hello`, `hey`, `good morning` |
+|  Time & Date | `what time is it`, `what day is today` |
+|  Weather | `is it raining`, `what's the forecast` |
+|  Jokes | `tell me a joke`, `make me laugh` |
+|  Math | `calculate`, `what is 5 + 3` |
+|  Motivation | `inspire me`, `give me a quote` |
+|  Fun Facts | `fun fact`, `did you know` |
+|  Chit-chat | `how are you`, `who are you` |
+|  Exit | `bye`, `quit`, `goodbye` |
 
 ---
 
@@ -62,7 +62,7 @@ RuleBot: Farewell! My if-else statements will miss you.
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 rulebot/
