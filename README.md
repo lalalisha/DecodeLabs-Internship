@@ -20,7 +20,7 @@ A lightweight, zero-dependency chatbot built entirely with Python if-else logic 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Requirements
 
@@ -126,7 +126,7 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙌 Contributing
+## Contributing
 
 Pull requests are welcome! If you'd like to add new rule categories, improve keyword coverage, or refactor the engine, feel free to open an issue or PR.
 
