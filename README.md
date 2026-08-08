@@ -112,7 +112,7 @@ Save and re-run — no restart script needed.
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 python -m pytest tests/ -v
