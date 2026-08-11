@@ -77,7 +77,7 @@ rulebot/
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 RuleBot uses a simple two-step process:
 
