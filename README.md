@@ -120,7 +120,7 @@ python -m pytest tests/ -v
 
 ---
 
-## 📄 License
+##  License
 
 MIT — see [LICENSE](LICENSE) for details.
 
